@@ -1,4 +1,6 @@
-# Updated by Shaurya - Version 2
+
+# Final version of calculator - merged soon!
+
 def add(a, b):
     return a + b
 
