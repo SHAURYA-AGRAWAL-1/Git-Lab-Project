@@ -1,3 +1,5 @@
+# Final version of calculator - merged soon!
+
 def add(a, b):
     return a + b
 
@@ -10,6 +12,3 @@ print('Difference:', subtract(10, 4))
 Added multiplication function
 def multiply(a, b): return a * b
 print('Product:', multiply(5, 4))
-Added division function
-def divide(a, b): return a / b if b != 0 else 'Error: Division by zero'
-print('Quotient:', divide(10, 2))
